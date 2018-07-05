@@ -1,0 +1,38 @@
+#header {
+	background-color: black;
+}
+
+#feather {
+	background: url("Feather.gif") no-repeat center;
+	height: 120px;
+
+}
+
+#button {
+	position: relative;
+	left: 25px;
+	top: 70px;
+}
+
+.btn-outline-light {
+	border: none;
+}
+
+.btn-outline-light:focus {
+	box-shadow: none;
+}
+
+.btn-outline-light:active {
+	box-shadow: none;
+	}
+
+h1 {
+	font-family: courier;
+	color: white;
+}
+
+p {
+	color: white;
+	font-family: courier;
+	text-align: justify;
+}
